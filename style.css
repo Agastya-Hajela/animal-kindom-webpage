@@ -1,0 +1,128 @@
+.sound{
+    width: 250px;
+    height: 250px;
+    border-radius: 30px;
+    border: 2px solid #ffffff;
+    margin: 15px;
+    text-align: center;
+    transition: transform .2s;
+    background-size: cover;
+    font-size: 2rem;
+    color: #fff;
+    filter: brightness(70%);
+}
+
+.sound:hover {
+    transform: scale(1.2); 
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    text-align: center;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    font-family: Garamond, serif;
+    color: #fff;
+    float: center;
+    text-decoration: none;
+    font-size: 400%; 
+    line-height: 90px;
+    border-radius: 4px;
+}
+
+body{
+    background-image: url("forest.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+}
+
+.s01{
+    background-image: url(bird.jpg);
+}
+
+.s02{
+    background-image: url(camel.jpg);
+}
+
+.s03{
+    background-image: url(cat.jpg);
+}
+
+.s04{
+    background-image: url(cow.jpg);
+}
+
+.s05{
+    background-image: url(crocodile.jpg);
+}
+
+.s06{
+    background-image: url(dinosaur.jpg);
+}
+
+.s07{
+    background-image: url(dog.jpg);
+}
+
+.s08{
+    background-image: url(donkey.jpg);
+}
+
+.s09{
+    background-image: url(duck.jpg);
+}
+
+.s10{
+    background-image: url(eagle.jpg);
+}
+
+.s11{
+    background-image: url(elephant.jpg);
+}
+
+.s12{
+    background-image: url(fish.jpg);
+}
+
+.s13{
+    background-image: url(giraffe.jpg);
+}
+
+.s14{
+    background-image: url(goat.jpg);
+}
+
+.s15{
+    background-image: url(lion.jpg);
+}
+
+.s16{
+    background-image: url(monkey.jpg);
+}
+
+.s17{
+    background-image: url(pig.jpg);
+}
+
+.s18{
+    background-image: url(snake.jpg);
+}
+
+.s19{
+    background-image: url(tiger.jpg);
+}
+
+.s20{
+    background-image: url(wolf.jpg);
+}
